@@ -1,1 +1,3 @@
-print("Hello word")
+// relax
+
+init __main__()
